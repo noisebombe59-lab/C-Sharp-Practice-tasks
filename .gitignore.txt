@@ -1,0 +1,44 @@
+# Visual Studio служебные файлы
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Сборка
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet и .NET
+*.nuget.props
+*.nuget.targets
+project.assets.json
+project.nuget.cache
+*.deps.json
+*.runtimeconfig.json
+*.runtimeconfig.dev.json
+
+# Другие генерируемые файлы
+*.pdb
+*.dll
+*.exe
+*.cache
+*.log
+
+# JetBrains Rider (если используешь)
+.idea/
+
+# VS Code
+.vscode/
+
+# Локальные настройки
+appsettings.Local.json
+secrets.json
